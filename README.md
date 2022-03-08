@@ -1,2 +1,0 @@
-# colorselector
-color selector
